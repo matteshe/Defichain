@@ -1,0 +1,6 @@
+# Setup RPC connection parameter
+RPC_USERNAME = "setup node username"
+RPC_PASSWORD = "setup node password"
+PRC_HOST = "127.0.0.1"
+RPC_PORT = 8554
+
